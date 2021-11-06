@@ -8,7 +8,7 @@ Dell Store is a Company website where you can find about company information and
 
 ## Screenshots
 
-![App Screenshot](https://github.com/BikramdeepSingh/BookShelf-Lib/blob/master/media/preview/preview_img.jpg?raw=true)
+![App Screenshot](https://github.com/Aranshu/HTML-Dell-Store/blob/master/Image/Banner.png?raw=true)
 
 ## Try it yourself
 
