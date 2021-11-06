@@ -4,7 +4,7 @@ Dell Store is a Company website where you can find about company information and
 
 ## Author
 
-- [Bikramdeep Singh](https://github.com/BikramdeepSingh)
+- [Aranshu Bansal](https://github.com/Aranshu)
 
 ## Screenshots
 
@@ -12,4 +12,4 @@ Dell Store is a Company website where you can find about company information and
 
 ## Try it yourself
 
-click [here](https://aranshu.github.io/project-dell/)
+click [here](https://aranshu.github.io/HTML-Dell-Store/)
